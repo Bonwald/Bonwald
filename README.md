@@ -1,4 +1,4 @@
-```md
+
 # 💫 About Me:
 
 🎓 I’m currently completing a **Software Engineering Degree Apprenticeship**, combining university study with real-world development experience.<br>
@@ -57,4 +57,4 @@
 [![](https://komarev.com/ghpvc/?username=Bonwald&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
-```
+
