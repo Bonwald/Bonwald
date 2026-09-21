@@ -37,16 +37,6 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=Bonwald&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-![](https://streak-stats.demolab.com/?user=Bonwald&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bonwald&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
